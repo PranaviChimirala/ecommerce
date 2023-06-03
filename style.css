@@ -9,3 +9,34 @@
     height: 100vh;
 
 }
+
+.services-head{
+    color: #183b56;
+    font-size: 36px;
+    font-weight: 700;
+    font-family: "Roboto";
+}
+
+.services-desc{
+    color: #616c7c;
+    font-size: 18px;
+    font-family: "Roboto";
+}
+
+
+.services-img {
+    width: 80px;
+}
+
+.services-title {
+    color: #1f2933;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: "Roboto";
+}
+
+.services-card-desc {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 14px;
+}
